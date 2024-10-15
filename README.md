@@ -49,4 +49,4 @@ To run the application, execute the following command:
 bash
 Copy code
 streamlit run record.py
-Replace app.py with the name of your main application file if it differs.
+
